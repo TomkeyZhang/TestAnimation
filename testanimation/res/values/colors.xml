@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="vifrification">#00000000</color> <!-- 透明 -->
+    <color name="white">#FFFFFF</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="lightskyblue">#87CEFA</color>
+
+</resources>
